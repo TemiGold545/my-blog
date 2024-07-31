@@ -1,0 +1,35 @@
+body{
+background-color: cadetblue;
+background-image: url("farm.jpg");
+/* A BEAUTIFUL FARM*/
+}
+h1{
+color: midnightblue;
+font-family: Courier New;
+
+}
+h2{
+border: 11px groove lightskyblue;
+width:50%;
+text-align: center;
+ text-decoration: underline;
+text-shadow: 2px 5px slateblue;
+letter-spacing: 10px;
+background-color: slateblue;
+
+
+
+}
+
+p{
+text-transform: uppercase;
+line-height:30px ;
+
+
+
+
+
+
+}
+
+
